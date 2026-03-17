@@ -8,7 +8,7 @@ Pour récupérer le projet, et que tout s'execute correctement, suivre ces étap
 
 
 ## 1 - Cloner le projet
-(git clone git@gitlab.etu.umontpellier.fr:e20200004120/projetter-s6_2026.git)
+git clone https://github.com/tiryworldpro-jp/DeepCv.git
 
 ## 2 - Activer l'environnement virtuel (venv) : 
 
